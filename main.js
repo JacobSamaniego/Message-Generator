@@ -10,3 +10,5 @@ const fakeFunFacts = () => {
     return `Fun Fact: ${nouns[randNoun]} ${adjectives[randAdjective]} ${other[randOther]}`
 
 }
+
+console.log(fakeFunFacts)
