@@ -11,4 +11,4 @@ const fakeFunFacts = () => {
 
 }
 
-console.log(fakeFunFacts)
+console.log(fakeFunFacts())
